@@ -51,7 +51,7 @@
 		A99E77FA206DAF0A004468E8 = {
 			isa = PBXGroup;
 			children = (
-				A99E782C206DBBBF004468E8 /* ModelClasses */,
+				A99E782C206DBBBF004468E8 /* Model */,
 				A99E7805206DAF0A004468E8 /* CoreData_BasicExample */,
 				A99E7804206DAF0A004468E8 /* Products */,
 			);
@@ -82,7 +82,7 @@
 			path = CoreData_BasicExample;
 			sourceTree = "<group>";
 		};
-		A99E782C206DBBBF004468E8 /* ModelClasses */ = {
+		A99E782C206DBBBF004468E8 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 				A99E7826206DBB88004468E8 /* Profile+CoreDataClass.h */,
@@ -90,7 +90,7 @@
 				A99E7828206DBB88004468E8 /* Profile+CoreDataProperties.h */,
 				A99E7829206DBB88004468E8 /* Profile+CoreDataProperties.m */,
 			);
-			path = ModelClasses;
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
